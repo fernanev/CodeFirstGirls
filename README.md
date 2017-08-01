@@ -1,1 +1,1 @@
-# CodeFirstGirls
+# CodeFirstSecondGirls
